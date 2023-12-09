@@ -1,0 +1,33 @@
+AUTOR:
+Nome: Gabriel Haruo Hanai Takeuchi
+NUSP: 13671636
+Email: takeuchigabriel@usp.br
+
+DESCRIÇÃO:
+<Explique o conte´udo desse projeto e o que os programas fazem (N˜ao diga
+apenas que ele ´e o EP1 da disciplina tal, explique o que de fato os
+programas fazem)>
+
+
+COMO GERAR O EXECUTÁVEL:
+<Informe o passo a passo de como gerar o execut´avel do programa em
+Assembly. De preferˆencia com todas as sequˆencias de linha de comando
+necess´arias>
+
+
+COMO EXECUTAR:
+<Informe como rodar os programas, como passar informac¸˜oes de entrada
+para eles e como interpretar a sa´ıda>
+
+
+TESTES:
+<Dˆe exemplos de alguns pares de entradas e sa´ıdas que sejam suficientes
+para que algu´em confirme que os programas est˜ao funcionando
+corretamente>
+
+
+DEPENDÊNCIAS:
+<Informe o que ´e necess´ario para compilar e rodar os programas.
+Informac¸˜oes como: vers˜ao do montador, vers˜ao do linker, vers˜ao do
+interpretador, informac¸˜oes do Sistema Operacional onde vocˆe executou e
+sabe que ele funciona s˜ao importantes de serem colocadas aqui>

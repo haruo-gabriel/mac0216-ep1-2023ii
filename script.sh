@@ -1,0 +1,1 @@
+cat arquivo | ./ep1
